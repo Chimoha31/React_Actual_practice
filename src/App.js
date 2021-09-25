@@ -50,7 +50,6 @@ function App() {
       date={expenses[3].date}>
       </ExpenseItem>
       
-      <p>This is also visible</p>
     </div>
   );
 };
