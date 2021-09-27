@@ -27,7 +27,7 @@ function App() {
   ];
 
   return (
-    <div className="expenses">
+    <div className="App-header">
       <h2>Let's get started</h2>
      <Expenses items={expenses}></Expenses>
       
